@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input-group {
+    margin-bottom: 30px;
+}
+
+#input {
+    width: 200px;
+}
+
+.error {
+    color: red;
+}
+
+.economy-text {
+    font-size: 32px;
+    font-weight: bold;
+}
